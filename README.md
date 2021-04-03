@@ -26,7 +26,7 @@
 
 ## 
 
-<h4 align="center"><a href='http://feschenko.org' target="_blank">dbuliga.ro</a><h4>
+<h4 align="center"><a href='https://dbuliga.ro' target="_blank">dbuliga.ro</a><h4>
 <div align="center">
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white" width="200"/>
 </div>
