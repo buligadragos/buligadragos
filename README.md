@@ -29,5 +29,4 @@
 <div align="center">
 🇷🇴
 <h4><a href='https://buligadragos.ro' target="_blank">buligadragos.ro</a><h4>
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2018-999999?style=for-the-badge&logo=apple&logoColor=white" width="200"/>
 </div>
